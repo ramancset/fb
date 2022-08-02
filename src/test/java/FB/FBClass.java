@@ -14,7 +14,7 @@ public class FBClass
 	{
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
-		driver.get("");
+		driver.get("https://www.facebook.com/");
 
 	}
 
