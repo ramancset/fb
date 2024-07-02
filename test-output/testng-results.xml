@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9584" started-at="2022-09-27T04:36:01Z" finished-at="2022-09-27T04:36:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9584" started-at="2022-09-27T04:36:01Z" finished-at="2022-09-27T04:36:11Z">
+      <class name="FB.FBClass">
+        <test-method status="PASS" signature="fbMethod()[pri:0, instance:FB.FBClass@4973813a]" name="fbMethod" duration-ms="9540" started-at="2022-09-27T10:06:01Z" finished-at="2022-09-27T10:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbMethod -->
+      </class> <!-- FB.FBClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
